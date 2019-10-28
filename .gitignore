@@ -1,0 +1,10 @@
+bin/
+.vs/SkipIntro/v15/Server/sqlite3/db.lock
+/.vs/RemoveRain/v15/Server/sqlite3/db.lock
+/.vs/RemoveRain/v15
+.vs/AlwaysDay/v15/Server/sqlite3/db.lock
+.vs/AlwaysDay/v15/Server/sqlite3/storage.ide
+.vs/AlwaysDay/v15/Server/sqlite3/storage.ide-shm
+.vs/AlwaysDay/v15/Server/sqlite3/storage.ide-wal
+.vs/AlwaysDay/v15/.suo
+.vs/config/applicationhost.config

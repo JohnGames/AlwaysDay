@@ -1,0 +1,11 @@
+﻿{
+  "Id": "AlwaysDay",
+  "DisplayName": "Always Day",
+  "Author": "JohnGames",
+  "Version": "1.0.0",
+  "GameVersion": "129.1",
+  "AssemblyName": "AlwaysDay.dll",
+  "EntryMethod": "AlwaysDay.Main.Load",
+  "HomePage": "https://github.com/JohnGames/AlwaysDay",
+  "Repository": "https://raw.githubusercontent.com/JohnGames/AlwaysDay/master/Repository.json"
+}
