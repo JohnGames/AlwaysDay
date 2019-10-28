@@ -1,6 +1,6 @@
-# Remove Rain
-Big Head Autonauts Mod
+# Always Day
+Lets you set the day to any time you want and it stay that way! (Also works as always night!)
 
-Removes rain from game, this is an example of how to do a toggle..
+This example mod includes how to do a settings method.
 
 Install using [Autonaut Mods Loder](https://github.com/JohnGames/autonauts-mod-manager)
